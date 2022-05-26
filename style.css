@@ -20,7 +20,7 @@ ul {
 li {
     display: flex;
     flex-direction: column;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     
 }
 li a {
